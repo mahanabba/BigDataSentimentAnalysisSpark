@@ -1,1 +1,1 @@
-# BigDataHW
+# In this notebook I use PySpark to explore a dataset of amazon reviews as well as train a Naive Bayes algorithm to predict whether a review is 3 stars or above from the review text. This project is all done in Google Colab.
